@@ -1,5 +1,5 @@
 
-hello everyone
+echo "hello everyone"
 
 echo "hiiiiiiiiiiiiiiiiii"
 pause;
